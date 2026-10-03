@@ -1,1 +1,3 @@
-# ai_workbench
+# AI workbench
+
+Files for typical workflow
